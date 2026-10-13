@@ -40,6 +40,23 @@ This project analyzes customer shopping behavior to identify sales trends, purch
 - Revenue by Age Group
 - Customer Loyalty Distribution
 
+## Key Business Insights
+
+- **Total Revenue:** The dataset generated a total purchase amount of **$233,081** across 3,900 customer records.
+- **Top Revenue Category:** Clothing generated the highest revenue at **$104,264**, followed by Accessories at $74,200.
+- **Top Products:** Blouse ($10,410), Shirt ($10,332), and Dress ($10,320) were the top three products by total purchase amount.
+- **Age-Group Analysis:** Customers aged **51–60** contributed the highest revenue at **$45,316**, followed by the 21–30 age group at $44,775.
+- **Customer Loyalty:** Regular customers accounted for **40.18%** of records, Loyal customers for **39.72%**, and Occasional customers for **20.10%**.
+- **Average Purchase Amount:** The average purchase amount was **$59.76**.
+
+## Business Recommendations
+
+- **Strengthen Clothing Sales:** Prioritize marketing campaigns and product assortment strategies for Clothing, the highest-revenue category.
+- **Promote Top Products:** Evaluate promotional opportunities for Blouses, Shirts, and Dresses while monitoring their profitability.
+- **Target Customer Segments:** Develop campaigns tailored to different age groups based on their purchasing patterns.
+- **Encourage Customer Retention:** Explore loyalty rewards and personalized offers to encourage repeat purchases among Regular and Occasional customers.
+- **Improve Decision-Making:** Use the Power BI dashboard to monitor revenue, category performance, product trends, and customer loyalty over time.
+
 ## Repository Structure
 ```text
 Customer-Shopping-Behavior-Analysis/
